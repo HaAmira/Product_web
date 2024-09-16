@@ -1,0 +1,11 @@
+.errors{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+.image{
+    width: 30%;
+}
+.note{
+    color: rgb(208, 204, 204);
+}
